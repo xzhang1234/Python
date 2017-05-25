@@ -10,8 +10,9 @@ The old.csv contains:
 136Single Number   53.8,Easy  
 ...
 
-The converted new.csv contains: 
-1,Two Sum,Easy
-292,Nim Game,Easy
-344,Reverse String,Easy
-136,Single Number,Easy
+The converted new.csv contains:  
+1,Two Sum,Easy  
+292,Nim Game,Easy  
+344,Reverse String,Easy  
+136,Single Number,Easy  
+...
